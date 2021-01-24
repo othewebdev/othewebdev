@@ -4,8 +4,6 @@
 
 #### I create web applications using React.js and Node.js
 
-<br/>
-
 #### 🥇 Programming Goals in 2021:
 
 ##### ✳️ | Collaborate on projects more
